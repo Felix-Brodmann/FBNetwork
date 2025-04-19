@@ -85,4 +85,4 @@ Pull requests and suggestions for improvement are always welcome!
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the LICENSE file for more information.
+FBNetwork © 2025 by Felix Brodmann is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
