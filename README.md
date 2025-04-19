@@ -1,6 +1,6 @@
 # FBNetwork
 
-FBNetwork is a lightweight C++ network library that provides simple TCP client and server implementations with event queue integration. It is ideal as a foundation for your own network-based applications or to extend existing projects with network functionality.
+FBNetwork is a C++ network library that provides simple TCP client and server implementations with event queue integration. It is ideal as a foundation for your own network-based applications or to extend existing projects with network functionality.
 
 ---
 
